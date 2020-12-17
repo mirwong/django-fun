@@ -1,0 +1,2 @@
+# django-fun
+learning django
